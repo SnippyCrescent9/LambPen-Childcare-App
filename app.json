@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "react-native-childcare-app",
-    "slug": "react-native-childcare-app",
+    "name": "LambPen-childcare-app",
+    "slug": "LambPen-childcare-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "LambPen",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
